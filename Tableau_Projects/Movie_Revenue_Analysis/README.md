@@ -2,7 +2,7 @@
 
 > **Decoding Box Office Success Through Data Visualization & Statistical Analysis**
 
-![Dashboard Overview](./assets/dashboard_overview.png)
+
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com)
 [![Data Analysis](https://img.shields.io/badge/Analysis-Statistical-blue?style=for-the-badge)](https://github.com)
@@ -22,9 +22,8 @@ This comprehensive analysis explores the intricate relationship between **genre*
 
 ---
 
-## 📈 **Key Findings & Business Impact**
 
-![Key Insights Summary](./assets/key_findings_infographic.png)
+
 
 ### 🏆 **Major Discoveries**
 
@@ -65,9 +64,7 @@ This comprehensive analysis explores the intricate relationship between **genre*
 
 ---
 
-## 📊 **Visualization Portfolio**
 
-![All Charts Overview](./assets/all_charts_preview.png)
 
 ### **Chart I: Seasonal Genre Performance**
 
@@ -153,9 +150,6 @@ Movie_Revenue_Analysis/
 
 ---
 
-## 💼 **Strategic Business Recommendations**
-
-![Strategic Recommendations](./assets/business_recommendations.png)
 
 ### 🎯 **Release Strategy Optimization**
 | **Season** | **Recommended Genres** | **Rationale** |
@@ -209,7 +203,7 @@ Movie_Revenue_Analysis/
 
 ## 🎬 **View the Interactive Dashboard**
 
-**[🔗 Open Tableau Dashboard](./Movie_Revenue_Dashboard.twbx)**
+
 
 *Requires Tableau Desktop 2024.1+ or Tableau Reader*
 
@@ -231,9 +225,9 @@ Movie_Revenue_Analysis/
 
 ## 📞 **Connect & Collaborate**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasheedafolabi1)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rasheed-Afolabi)
+
 
 ---
 
